@@ -1,0 +1,2 @@
+#D:\MIDA\obsNEE.txt##D:\MIDA\simuNEE.txt
+simu_map[0:5844]=simuList[0][0:5844]
